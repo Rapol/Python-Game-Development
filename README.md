@@ -23,3 +23,8 @@ Asteroids->http://www.codeskulptor.org/#user8-uUyJtYcFNJvKQJb-1.py
 Asteroids2->http://www.codeskulptor.org/#user8-JVGjqL8C5e-0.py
 
 RiceRocks->http://www.codeskulptor.org/#user8-JVGjqL8C5e-8.py
+
+
+-------------------WORKS!!!
+
+RiceRocks-> http://www.codeskulptor.org/#user18_JVGjqL8C5e_9.py
