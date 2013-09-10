@@ -16,7 +16,7 @@ Memory->http://www.codeskulptor.org/#user5-av0pmtvN5OWji6l.py
 Black Jack->http://www.codeskulptor.org/#user8-apjOr9cHj6-7.py
 
 ---Checked this last game and its giving me an error, last time it work. Could be an update to the site that im not aware of. Trying to
----solve it.
+solve it.
 
 Asteroids->http://www.codeskulptor.org/#user8-uUyJtYcFNJvKQJb-1.py
 
