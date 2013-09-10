@@ -1,7 +1,7 @@
 Python-Game-Development
 =======================
 Online Course - An Introduction to Interactive Programming in Python (Rice University)
-Development was done on a site develop by Rice University. Taken in August 2012
+Development was done on a site developed by Rice University. Taken in August 2012
 
 Rock, paper, scissor, spock! ->http://www.codeskulptor.org/#user2-ebikRUGDE8BkyCE.py
 
